@@ -3,7 +3,7 @@ phases:
   build:
     commands:
       - ls
-      - echo "this is build 9"
+      - echo "this is build 10"
 artifacts:
   files:
     - deploy/*
