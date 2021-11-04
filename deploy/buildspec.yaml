@@ -3,4 +3,4 @@ phases:
   build:
     commands:
       - ls
-      - echo "this is deploy 7"
+      - echo "this is deploy 8"
