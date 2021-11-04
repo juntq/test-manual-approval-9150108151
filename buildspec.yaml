@@ -7,3 +7,4 @@ phases:
 artifacts:
   files:
     - deploy/*
+  discard-paths: yes
